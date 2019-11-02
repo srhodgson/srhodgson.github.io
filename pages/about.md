@@ -8,7 +8,11 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+and I am an SQL developer based in Kent, England. I am experienced in the installation and operation of a variety of Windows and Unix based 
+operating systems and software.
+
+While my primary focus is developing SQL solutions and managing SQL servers, I also have a keen interest in other forms of development, particularly
+web applications, and open source software.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

@@ -1,11 +1,24 @@
-- name: HTML5/CSS3
+- name: T-SQL
   percentage: 90
-  color: danger
+  color: 
 
-- name: Go
-  percentage: 80
+- name: HTML/CSS
+  percentage: 70
   color:
 
-- name: Python
+- name: Javascript
   percentage: 70
-  color: dark
+  color:
+
+- name: C#
+  percentage: 60
+  color:
+
+- name: Ruby on Rails
+  percentage: 50
+  color:
+
+- name: DevExpress
+  percentage: 35
+  color:
+

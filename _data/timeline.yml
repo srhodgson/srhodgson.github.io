@@ -1,17 +1,29 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: SQL Developer, Havas Shared Services
+  from: 2017
+  to: Present
+  description: Responsible for providing in house technical support for Unit4 Business World!, and 
+               internally developed C# applications, as well as a number of bespoke webservices.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+               I also support a variety production and test SQL servers, and buisness servers, as well 
+               as also writing custom reports.
+
+- title: Support Analyst, The Access Group
+  from: 2015
+  to: 2017
+  description: Responsible supporting customers using SelectHR, SelectPay, and Change Work Now systems.
+
+- title: Customer Services Executive, Konetic Ltd
+  from: 2014
+  to: 2015
+  description: Responsible for providing first line support to direct and partner clients who are using both 
+               the Konetic Active and Konetic Recruit eRecruitment systems.
+
+- title: Soldier, British Army
+  from: 2002
+  to: 2014
+  description: I served 12 years in the Grenadier Guards based both in the UK and abroad. I specialised
+               as a Radio Operator and an Application Specialist, and I was responsible for maintaining
+               and operating secure and insecure digital and analogue communication systems and providing 
+               application support to customers using a variety of civilian and military software applications.
+
+
